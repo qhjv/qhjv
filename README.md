@@ -45,16 +45,16 @@
 <!-- https://icons8.com -->
 <div align="start">
   <a href="https://q-hjv.com" target="blank">
-    <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-web-seo-web-and-advertising-media-flatart-icons-outline-flatarticons.png" />
+    <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-web-seo-web-and-advertising-media-flatart-icons-outline-flatarticons.png" height="30"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100009360518751" target="blank">
-    <img src="https://img.icons8.com/carbon-copy/100/000000/facebook.png" height="25"/>
+    <img src="https://img.icons8.com/carbon-copy/100/000000/facebook.png" height="30"/>
   </a>
   <a href="https://www.instagram.com/quang_huy_vu_" target="blank">
-    <img src="https://img.icons8.com/carbon-copy/100/000000/instagram-new--v1.png" height="25"/>
+    <img src="https://img.icons8.com/carbon-copy/100/000000/instagram-new--v1.png" height="30"/>
   </a>
   <a href="mailto:vuquanghuy978@gmail.com" target="top">
-    <img src="https://img.icons8.com/carbon-copy/100/000000/apple-mail.png" height="25"/>
+    <img src="https://img.icons8.com/carbon-copy/100/000000/apple-mail.png" height="30"/>
   </a>
 </div>
 
