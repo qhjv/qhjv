@@ -10,8 +10,7 @@ Website : https://q-hjv.com.
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 
-- <br>
+<br>
 <h2 align="start">Skills</h2>
 <br>
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
