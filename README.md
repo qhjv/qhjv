@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**qhjv/qhjv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**qhjv/qhjv** https://q-hjv.com.
 
 <h2 align="start">Skills</h2>
 <br>
@@ -44,9 +44,6 @@
 <br>
 <!-- https://icons8.com -->
 <div align="start">
-  <a href="https://q-hjv.com" target="blank">
-    <img src="https://img.icons8.com/external-kmg-design-detailed-outline-kmg-design/64/000000/external-web-web-hosting-kmg-design-detailed-outline-kmg-design.png" height="25"/>
-  </a>
   <a href="https://www.facebook.com/profile.php?id=100009360518751" target="blank">
     <img src="https://img.icons8.com/carbon-copy/100/000000/facebook.png" height="30"/>
   </a>
