@@ -2,7 +2,7 @@
 
 **qhjv/qhjv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<h2 align="center">Skills</h2>
+<h2 align="start">Skills</h2>
 <br>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
