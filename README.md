@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-**qhjv/qhjv** 
 Website : https://q-hjv.com.
 
 <h2 align="start">Skills</h2>
